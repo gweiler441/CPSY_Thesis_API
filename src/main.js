@@ -145,7 +145,7 @@ try {
     console.log('\n' + '='.repeat(60));
     console.log('ORCHESTRATION COMPLETE!');
     console.log('='.repeat(60));
-    console.log(`Total runs completed: ${totalRuns}/169`);
+    console.log(`Total runs completed: ${totalRuns}`);
     console.log('All tweets have been saved to the dataset.');
     console.log('='.repeat(60));
 
